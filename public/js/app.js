@@ -1,4 +1,3 @@
-console.log('Client Side javascript file is loaded.')
 
 document.querySelector('form').addEventListener('submit', (e) => {
     e.preventDefault()
